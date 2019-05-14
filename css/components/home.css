@@ -1,0 +1,98 @@
+.content-home {
+  margin: 180px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.content-home img{
+  border-radius: 4px;
+  width: 100%;
+}
+
+.contenu-site {
+  width: 450px;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.contenu-site h2{
+  font-size: 40px;
+}
+
+.contenu-site p{
+  opacity: 0.7;
+}
+
+.content-offre {
+
+}
+
+.content-offre h2 {
+  text-align: center;
+  font-size: 54px;
+}
+
+.offre {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 100px 0px;
+}
+
+.offre h2 {
+  font-size: 40px;
+}
+
+.offre p {
+  opacity: 0.7;
+}
+
+.card-offre {
+  /*margin: 0 40px;*/
+  width: 220px;
+  height: 300px;
+  border-radius: 4px;
+  padding: 30px 15px;
+  /*Box-shadow à revoir*/
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+.citation {
+  text-align: center;
+  margin: 180px 0 !important;
+}
+
+.citation h2 {
+  font-size: 40px;
+}
+
+.citation h3 {
+  font-size: 24px;
+  margin-top: 20px;
+  opacity: 0.7;
+}
+
+.hr {
+  width: 90px;
+}
+
+.profil {
+  margin-bottom: 220px !important;
+}
+
+.content-profil img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.content-profil p {
+  opacity: 0.7;
+}
+
+.content-profil {
+  width: 450px;
+  margin: 80px 0;
+}
