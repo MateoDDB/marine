@@ -58,6 +58,7 @@ body {
   .card-flex {
     flex-direction: column;
   }
+
   .qualites {
     flex-direction: column;
     align-items: center;
@@ -65,6 +66,14 @@ body {
 
   .contenu-site {
     width: 220px;
+  }
+
+  .programme {
+    flex-direction: column;
+  }
+
+  .img-programme img {
+    width: 200px;
   }
 }
 
