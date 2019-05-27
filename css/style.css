@@ -38,6 +38,10 @@ body {
     margin: 40px auto;
   }
 
+  .content-profil h2 {
+    font-size: 24px;
+  }
+
   .banner h1 {
     font-size: 32px;
   }
@@ -48,11 +52,15 @@ body {
   }
 
   .citation h2 {
-    font-size: 32px;
+    font-size: 24px;
+  }
+
+  .card-offre {
+    margin-bottom: 40px;
   }
 
   .content-offre h2 {
-    font-size: 32px;
+    font-size: 24px;
   }
 
   .card-flex {
@@ -66,6 +74,7 @@ body {
 
   .contenu-site {
     width: 220px;
+    margin-bottom: 40px;
   }
 
   .programme {
@@ -74,6 +83,21 @@ body {
 
   .img-programme img {
     width: 200px;
+  }
+
+  .contenu-site h2 {
+    font-size: 24px;
+  }
+  .contenu-site p {
+    font-size: 18px;
+  }
+
+  .btn-navbar {
+    display: none;
+  }
+
+  .navbar-dropdown {
+    display: block;
   }
 }
 
