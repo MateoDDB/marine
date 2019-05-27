@@ -33,7 +33,7 @@ body {
   }
 
   .content-profil {
-    width: 220px;
+    width: 300px;
     text-align: center;
     margin: 40px auto;
   }
@@ -57,6 +57,7 @@ body {
 
   .card-offre {
     margin-bottom: 40px;
+    width: 300px;
   }
 
   .content-offre h2 {
@@ -73,7 +74,7 @@ body {
   }
 
   .contenu-site {
-    width: 220px;
+    width: 300px;
     margin-bottom: 40px;
   }
 
@@ -82,7 +83,7 @@ body {
   }
 
   .img-programme img {
-    width: 200px;
+    width: 300px;
   }
 
   .contenu-site h2 {
@@ -98,6 +99,10 @@ body {
 
   .navbar-dropdown {
     display: block;
+  }
+
+  .marg-img {
+    margin-bottom: 40px;
   }
 }
 
